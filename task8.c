@@ -410,3 +410,4 @@ int main(void)
     return 0;
 
 }//finish
+//今後処理を追加
