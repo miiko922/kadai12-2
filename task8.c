@@ -20,7 +20,8 @@ struct shop {
     //3:中華
     //4:カフェ
     //5:バー
-    //6:その他
+    //6:バル
+    //7:その他
     struct time open;                   //開業時間
     struct time close;                  //終業時間
     int price;                          //価格帯
